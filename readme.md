@@ -1,13 +1,13 @@
-#Baekjoon_study
+# Baekjoon_study
 
-##1. Description
+## 1. Description
 
 > *공부 안하면 ???가야 한다...* 
 
 라는 **명언**을 새겨듣고 열심히 공부하기 위한 스터디에서 [Baekjoon Online Judge](https://www.acmicpc.net) 을 바탕으로 Computer Science에 관한 공부를 하는 Repository입니다.
 
 
-##2. Rules
+## 2. Rules
 이 Repository를 사용하는 규칙은 크게 3가지 입니다.
 
 + 매주 일요일 저녁에 자신이 한 주 동안 풀 문제의 문제번호+요약을 대략적으로 정리하여 repository의 개인 폴더에 넣을 것
@@ -17,5 +17,5 @@
   - 다른사람이 코드를 볼 때 쉽게 찾을 수 있도록 ...
 + 규칙은 구성원들의 상황/요구를 바탕으로 변경될 수 있습니다.
 
-##3. Objective
+## 3. Objective
 구체적인 목표는 `2달 후 중견기업 면접 예상질문을 뽑았을 때 절반 이상 대답하는 것` 정도 ?
